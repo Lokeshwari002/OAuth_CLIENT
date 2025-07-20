@@ -2,7 +2,7 @@ import React from 'react'
 
 function Dashboard() {
     const handleLogout=()=>{
-        window.open("http://localhost:8004/auth/logout","_self")
+        window.open("https://oauth-udsd.onrender.com//auth/logout","_self")
     }
 
 

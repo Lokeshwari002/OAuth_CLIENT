@@ -2,7 +2,7 @@ import React from 'react'
 
 function Login() {
     const handleGoogleLogin=()=>{
-        window.open("http://localhost:8004/auth/google","_self")
+        window.open("https://oauth-udsd.onrender.com//auth/google","_self")
     }
 
 
